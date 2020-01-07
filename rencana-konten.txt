@@ -2,5 +2,5 @@
 1. membuat artikel tutorial
 2. uplod secara konsisten 
 3. buat artikel panjang
-4. konten PHP
-5. konten Framework
+4. konten CSS 
+5. konten HTML
